@@ -1,0 +1,385 @@
+You: Hello
+
+Fin: Hi there,I am Fin, your Finance assistant chatbot, how can I help you today?
+
+You: Hei
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: hi there
+
+Fin: Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+
+You: helo
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: god mornig
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: goo mrning
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: is anybody there
+
+Fin: Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+
+You: Have a nice day
+
+Fin: Have a great day! Before you go, do not forget to check the details for the recommended automated payment methods (link)
+
+You: see you
+
+Fin: Have a great day! Before you go, do not forget to check the details for the recommended automated payment methods (link)
+
+You: wish you a great day ahead!
+
+Fin: We are here for you anytime! Before you go, do not forget to check the details for the recommended automated payment methods (link)
+
+You: See you latr
+
+Fin: We are here for you anytime! Before you go, do not forget to check the details for the recommended automated payment methods (link)
+
+You: Hve a nie day
+
+Fin: Thank you for reaching out to us! Before you go, do not forget to check the details for the recommended automated payment methods (link)
+
+You: Se yo lter
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: what are you called
+
+Fin: I'm Fin!
+
+You: What am I talking to?
+
+Fin: You can call me Fin.
+
+You: so what exactly are you?
+
+Fin: I'm FinBot, your bot assistant
+
+You: what is your nme
+
+Fin: I'm FinBot, an Artificially Intelligent bot
+
+You: what shuld I cll you
+
+Fin: I'm FinBot, an Artificially Intelligent bot
+
+You: wat ar they clling you
+
+Fin: My pleasure! Before you go, do not forget to check the details for the recommended automated payment methods (link)
+
+You: give me a hand please
+
+Fin: Please tell me your problem so I can assist you
+
+You: i need some support please
+
+Fin: Please tell me your problem so I can assist you
+
+You: i have an issue i need some urgent help with
+
+Fin: Tell me how can I assist you
+
+You: Cold you help me
+
+Fin: Tell me how can I assist you
+
+You: I hve a prblem
+
+Fin: Tell me how can I assist you
+
+You: Coud you plese help me slve this issue?
+
+Fin: Yes Sure, how can I be of help?
+
+You: I have an outstanding invoice how can I pay it
+
+Fin: Please provide your User ID so that I can check your available payment methods.
+
+You: i have an open invoice, how can I pay it?
+
+Fin: Please provide your User ID so that I can check your available payment methods.
+
+You: here's the thing I need help with how to pay the invoice that is still outstanding
+
+Fin: Please provide your User ID so that I can check your available payment methods.
+
+You: how could i pay my last invice, could you please guide me through the steps
+
+Fin: Please provide your User ID so that I can check your available payment methods.
+
+You: how could i pay my last invice, could you please gide me through the steps
+
+Fin: Please provide your User ID so that I can check your available payment methods.
+
+You: how could i pay my last invice, could you please gide me through the stps
+
+Fin: Please provide your User ID so that I can check your available payment methods.
+
+You: can i have a pdf of my invoice
+
+Fin: Your invoice can be retrieved from this path...
+
+You: please provide me with a copy of my invoice
+
+Fin: Your invoice can be retrieved from this path...
+
+You: i lost my invoice and i need another copy of it please
+
+Fin: You can download your invoice from this path...
+
+You: i want to dwnload an invoice
+
+Fin: Your invoice can be retrieved from this path...
+
+You: i wnt to access an inoice
+
+Fin: You can find a copy of your invoice by accessing this path ...
+
+You: can I otain a cpy of an ivoice
+
+Fin: You can download your invoice from this path...
+
+You: My invoice is wrong, I need to make changes before I can pay
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: there are errors in my invoice, how can i get this corrected?
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: i have noticed something is not right with this invoice you sent, what do I do?
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: there are errrs in my invoice how to correct it
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: there is an isse with my invice
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: how to aend a flt in the invoice
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: invoice amount is not correct
+
+Fin: It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: invoice shows wrong amount, how can i have it corrected
+
+Fin: It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: i am noticing wrong rates on my invoice how can i get a corrected invoice
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: amount chrged is wrong
+
+Fin: It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: Prces are wrng in the invoice
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: prices are wrong in the invoice
+
+Fin: It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: My invoce has wrng ttal
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: billing details are not correct
+
+Fin: I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: my details on the invoice are not the correct ones
+
+Fin: I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: i am noticing the address noted on the invoice is wrong, how can i get that fixed?
+
+Fin: I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: the illing details are wrong on the invoice
+
+Fin: I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: the illing dtails are wrong on the invoice
+
+Fin: I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: the illing dtails are wrong on the ivoice
+
+Fin: I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: Invoice has wrong due date
+
+Fin: Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: this invoice has wrong due date
+
+Fin: Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: when i got this invoice i realized the due date is not right, how do i fix this
+
+Fin: Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: The dte on my invoice does not make sense
+
+Fin: I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+
+You: Dats on my invice is wrong
+
+Fin: I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: dates on my invoice is wrong
+
+Fin: Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: the date on my inoice does nt make snse
+
+Fin: Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+
+You: 100 EUR
+
+Fin: OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 111 EUR
+
+Fin: OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 128 CZK
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 23 SK
+
+Fin: OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 13 SK
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 1500 U
+
+Fin: OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 123456 y
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 123 Revolutionary Road, Washington, US
+
+Fin: Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 123 Revolutionary Road, Washington
+
+Fin: Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 66 Place Charles de Gaulle, Lille
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 345 Min Street, Mississippi
+
+Fin: Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 345 Min Stret, Mississippi
+
+Fin: Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 345 Min Stret, Mississppi
+
+Fin: Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 25.12.2020
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: December 25th
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 3 October 2021
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: 5th of Mrch
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: Sptembr 11
+
+Fin: OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: Nemer 2021
+
+Fin: Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+
+You: how can i change the payment method of my invoice
+
+Fin: You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+
+You: i would need a change of my payment methods
+
+Fin: You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+
+You: so i noticed there is a wrong payment method on my invoice, i need to change with the correct payment method, how do I do that?
+
+Fin: You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+
+You: i would like to change my payment method
+
+Fin: You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+
+You: i would like to chnge my payment method
+
+Fin: You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+
+You: i would like to chnge my pyment method
+
+Fin: You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+
+You: i would like to chnge my pyment mthod
+
+Fin: You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+
+You: you cannot help me i want to talk to a human being
+
+Fin: Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+
+You: is there a real person?
+
+Fin: Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+
+You: this was a useless discussion, i need a real person to talk to
+
+Fin: Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+
+You: could you please transfer my call to a human operator?
+
+Fin: Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+
+You: could you please trnsfer my call to a human operator?
+
+Fin: Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+
+You: could you please trnsfer my cll to a human operator?
+
+Fin: Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+
+You: could you please trnsfer my cll to a human oprator?
+
+Fin: Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+
+

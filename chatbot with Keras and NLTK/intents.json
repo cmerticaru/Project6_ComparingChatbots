@@ -1,0 +1,67 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay","Good morning", "Good day", "Good evening", "Good afternoon", "Hiya"],
+     "responses": ["Hello, I am Fin, your Finance assistant chatbot, how can I help you today?", "Hi, I am Fin, your Finance assistant chatbot, how can I help you today?", "Hi there,I am Fin, your Finance assistant chatbot, how can I help you today?"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "Have a nice day", "Have a great day", "See ya", "Later"],
+     "responses": ["Have a nice day! Before you go, do not forget to check the details for the recommended automated payment methods (link)", "Thank you for reaching out to us! Before you go, do not forget to check the details for the recommended automated payment methods (link)", "Have a great day! Before you go, do not forget to check the details for the recommended automated payment methods (link)", "We are here for you anytime! Before you go, do not forget to check the details for the recommended automated payment methods (link)"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+     "responses": ["Happy to help! Before you go, do not forget to check the details for the recommended automated payment methods (link)", "Great to hear I could be of help! Before you go, do not forget to check the details for the recommended automated payment methods (link)", "My pleasure! Before you go, do not forget to check the details for the recommended automated payment methods (link)", "You're most welcome! Before you go, do not forget to check the details for the recommended payment methods (link)","It's been my pleasure! Before you go, do not forget to check the details for the recommended automated payment methods (link)"]
+    },
+    {"tag": "name",
+     "patterns": ["Who are you?", "What are you?", "Who am I talking to?", "what is your name", "what should I call you", "whats your name?","what are you called","what are they calling you"],
+     "responses": ["I'm FinBot, your bot assistant", "I'm FinBot, an Artificially Intelligent bot", "You can call me Fin.", "I'm Fin!", "Just call me Fin" ]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need support", "I need help", "support me please","help me please","help me","I need some help","I have a problem","I have a question","Can you help me with something?","Can you give me some advice","I need support","Could you please help me solve this issue?","Something's not right","Could you help me with something?","Please could you help me?"],
+    "responses": ["Tell me how can I assist you", "Please tell me your problem so I can assist you", "Yes Sure, how can I be of help?"]
+    },
+    {"tag": "payinvoice",
+    "patterns": ["I have an outstanding invoice how can I pay it", "I have an overdue invoice how can I pay it", "I need to pay my overdue invoice", "I need to pay my invoice", "how to pay my invoice", "I want to pay an invoice", "can you tell me how to pay an invoice", "I have an invoice to be paid", "I have to pay an invoice","I would like to pay my last invoice, can you help?","Would you help me to pay my invoice?","I need to pay my invoice, but I dont know how","I cannot pay my last invoice. Can you tell me how?","How could I pay my last invoice, could you please guide me through the steps?","How can I pay my latest invoice?"],
+    "responses": ["Please provide your User ID so that I can check your available payment methods."]
+    },
+    {"tag": "findinvoice",
+    "patterns": ["I need a copy of my invoice", "I want a copy of an invoice", "i need to retrieve an invoice","i want to download an invoice","i want to access an invoice","can I obtain a copy of an invoice","where can I find my invoice", "where do I find an invoice","where can I get an invoice","I need to review my invoice","Please provide my invoice","Can you give me my invoice?","Can I have a pfd of my invoice?","Could you please email me my invoice?","I've lost my invoice"],
+    "responses": ["You can find a copy of your invoice by accessing this path ...", "You can download your invoice from this path...","Your invoice can be retrieved from this path..."]
+    },
+	{"tag": "wronginvoice",
+    "patterns": ["My invoice is wrong", "My invoice is wrong, I need to make changes before I can pay", "invoice is not correct","the invoice is incorrect","can i get the invoice corrected","how can i correct my invoice","there is an error in my invoice, how can I correct it", "how to amend a fault in the invoice","there is something wrong with my invoice, how can I get it corrected","I have a problem with my invoice","There is an issue with my invoice","My invoice seems to be incorrect","My invoice does not make sense","I got an invoice that does not belong to me","This invoice is not correct","Something's wrong with my invoice","Something's not right with my invoice"],
+    "responses": ["I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date."]
+    },
+	{"tag": "wronginvoiceamount",
+    "patterns": ["Invoice has wrong amount", "Wrong amount", "invoice amount is not correct","amount is wrong","amount is incorrect","charge is incorrect","invoice shows wrong amount, how can I correct it", "how to amend the wrong amount","amount charged is wrong","amount charged is not correct","Invoice was issued with wrong price","invoice has wrong rates","Prices are wrong in the invoice","My invoice is too high","invoice is too low","My invoice has wrong total"],
+    "responses": ["It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time."]
+    },
+	{"tag": "inputinvoiceamount",
+    "patterns": ["150 USD", "100 EUR", "23 GBP", "11 JPY", "10 AUD", "98 CAD", "56 CHF", "75 CNY", "23 SEK", "1 NZD", "200 RON","1500 RUB","10000 TRY"],
+    "responses": ["OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days."]
+    },
+	{"tag": "wronginvoicedetails",
+    "patterns": ["Invoice has wrong details", "Wrong billing details", "billing details are not correct","billing details are wrong","billing details are incorrect","my details on the invoice are incorrect","invoice shows wrong billing details, how can I correct it", "how to amend the wrong billing details","billing details mentioned on the invoice are wrong","billing details on the invoice are not correct","My billing address is wrong on the invoice","The address information on my invoice is incorrect","The billing address on the invoice is not correct","The billing details are wrong on the invoice"],
+    "responses": ["I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time."]
+    },
+	{"tag": "inputinvoicedetails",
+    "patterns": ["123 Revolutionary Road, Washington, US", "345 Main Street, Mississippi", "300 Prinsengracht, Amsterdam","12 Hobbit Str.","Champs Elysees No 2, Paris","Baker Street 221b, London","1600 Pennsylvania Avenue, Washington DC, USA","11 Wall Street New York, NY","350 Fifth Avenue New York, NY 10118","4059 Mt Lee Dr. Hollywood, CA 90068","Buckingham Palace, London, England"],
+    "responses": ["Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days."]
+    },
+	{"tag": "wronginvoiceduedate",
+    "patterns": ["Invoice has wrong due date", "Wrong Due Date", "due date is not correct","due date is wrong","due date is incorrect","the due date on the invoice is incorrect","invoice shows wrong due date, how can I correct it", "how to amend the wrong due date","due date on the invoice is not correct","Invoice was issued with wrong dates","Dates on my invoice is wrong","The date on my invoice does not make sense","The date of my invoice is in the past","The data of my invoice is far in the future","There is no date on this invoice","The invoice is not dated"],
+    "responses": ["Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time."]
+    },
+	{"tag": "inputinvoiceduedate",
+    "patterns": ["01.10.2020", "25.12.2020", "3rd November","5th of March","January 19th","February 28","04.04", "21st of May","15.06","July 18th","17.08","September 11"],
+    "responses": ["Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days."]
+    },
+	{"tag": "changepayment",
+    "patterns": ["can i change my payment method", "Wrong payment method", "i want to change the way i pay my invoice","how can i change my payment method","i want a different payment method","what payment methods are available","what are the available payment methods", "how to select a different payment method","how can I change the payment method of my invoice","I would like to change my payment method","I need to change my payment method","Can I pay differently?","can i change the way i pay my bills","can i change how i pay","Can I pay with card?","can I pay with CC?", "can i pay with Cash?", "can I pay with Paypal?","Could I change my payment method?","What are the payment options?","What are my payment options?","How can I pay?"],
+    "responses": ["You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment."]
+    },
+	{"tag": "human",
+    "patterns": ["i want to talk to a human agent", "need to talk to a human", "please get me in contact with a human","dont want to talk to you anymore, i want a human agent","you cannot help me i want to talk to a human being","want to talk to a person","i need a person to help me", "please get me a human agent","human agent please","Can i talk to a real person","real person","human being","Can you forward me to an actual person","Could I please talk to a human operator?","Could you please transfer my call to a human operator?"],
+    "responses": ["Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!"]
+    }
+]
+}

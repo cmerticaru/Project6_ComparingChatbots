@@ -1,0 +1,128 @@
+hi
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+hey
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+is anyone there
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+hello
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+hay
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+good morning
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+good day
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+good evening
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+good afternoon
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+hiya
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+goodbye
+Thank you for reaching out to us! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+bye
+Thank you for reaching out to us! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+see you later
+Thank you for reaching out to us! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+have a nice day
+Have a nice day! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+have a great day
+Have a nice day! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+talk to you later
+Have a nice day! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+see ya
+Have a nice day! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+later
+Have a nice day! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+thanks
+Happy to help! Before you go, do not forget to check the details for the recommended automated payment methods here ... 
+thank you
+Happy to help! Before you go, do not forget to check the details for the recommended automated payment methods here ...
+that's helpful
+Happy to help! Before you go, do not forget to check the details for the recommended automated payment methods here ...
+thank you for the help
+Happy to help! Before you go, do not forget to check the details for the recommended automated payment methods here ...
+thanks for the help
+Happy to help! Before you go, do not forget to check the details for the recommended automated payment methods here ...
+who are you
+I'm Fin, your bot assistant
+what are you
+I'm Fin, your bot assistant
+what is your name
+I'm Fin, your bot assistant
+who am i talking to
+I'm Fin, your bot assistant
+what should i call you
+I'm Fin, your bot assistant
+what are you called
+I'm Fin, your bot assistant
+whats your name
+I'm Fin, your bot assistant
+could you help me
+please tell me your problem so I can assist you
+give me a hand please
+please tell me your problem so I can assist you
+can you help
+please tell me your problem so I can assist you
+can you support me
+please tell me your problem so I can assist you
+what can you do for me
+please tell me your problem so I can assist you
+i need support
+please tell me your problem so I can assist you
+i need help
+please tell me your problem so I can assist you
+support me please
+please tell me your problem so I can assist you
+help me please
+please tell me your problem so I can assist you
+help me
+please tell me your problem so I can assist you
+i have a problem
+please tell me your problem so I can assist you
+i have an issue
+please tell me your problem so I can assist you
+i have a challenge
+please tell me your problem so I can assist you
+i have a question
+please tell me your problem so I can assist you
+can you help me with something
+please tell me your problem so I can assist you
+can you give me some advice
+please tell me your problem so I can assist you
+could you please help me solve this issue
+please tell me your problem so I can assist you
+could you help me with something
+please tell me your problem so I can assist you
+please could you help me
+please tell me your problem so I can assist you
+i want to talk to a human agent
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+need to talk to a human
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+please get me in contact with a human
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+dont want to talk to you anymore, i want a human agent
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+you cannot help me i want to talk to a human being
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+want to talk to a person
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+i need a person to help me
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+please get me a human agent
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+human agent please
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+Can i talk to a real person
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+real person
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+human being
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+Can you forward me to an actual person
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+Could I please talk to a human operator?
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+Could you please transfer my call to a human operator?
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!

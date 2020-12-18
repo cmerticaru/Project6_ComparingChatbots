@@ -1,0 +1,302 @@
+I have an outstanding invoice how can I pay it
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I have an overdue invoice how can I pay it
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I need to pay my overdue invoice
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I need to pay my invoice
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+how to pay my invoice
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I want to pay an invoice
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+can you tell me how to pay an invoice
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I have an invoice to be paid
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I have to pay an invoice
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I would like to pay my last invoice, can you help?
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+Would you help me to pay my invoice?
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I need to pay my invoice, but I dont know how
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I cannot pay my last invoice. Can you tell me how?
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+How could I pay my last invoice, could you please guide me through the steps?
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+How can I pay my latest invoice?
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+I need a copy of my invoice
+You can find a copy of your invoice by accessing this path ...
+I want a copy of an invoice
+You can find a copy of your invoice by accessing this path ...
+i need to retrieve an invoice
+You can find a copy of your invoice by accessing this path ...
+i want to download an invoice
+You can find a copy of your invoice by accessing this path ...
+i want to access an invoice
+You can find a copy of your invoice by accessing this path ...
+can I obtain a copy of an invoice
+You can find a copy of your invoice by accessing this path ...
+where can I find my invoice
+You can find a copy of your invoice by accessing this path ...
+where do I find an invoice
+You can find a copy of your invoice by accessing this path ...
+where can I get an invoice
+You can find a copy of your invoice by accessing this path ...
+I need to review my invoice
+You can find a copy of your invoice by accessing this path ...
+Please provide my invoice
+You can find a copy of your invoice by accessing this path ...
+Can you give me my invoice?
+You can find a copy of your invoice by accessing this path ...
+Can I have a pfd of my invoice?
+You can find a copy of your invoice by accessing this path ...
+Could you please email me my invoice?
+You can find a copy of your invoice by accessing this path ...
+I've lost my invoice
+You can find a copy of your invoice by accessing this path ...
+My invoice is wrong
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+My invoice is wrong, I need to make changes before I can pay
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+invoice is not correct
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+the invoice is incorrect
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+can i get the invoice corrected
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+how can i correct my invoice
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+there is an error in my invoice, how can I correct it
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+how to amend a fault in the invoice
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+there is something wrong with my invoice, how can I get it corrected
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+I have a problem with my invoice
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+There is an issue with my invoice
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+My invoice seems to be incorrect
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+My invoice does not make sense
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+I got an invoice that does not belong to me
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+This invoice is not correct
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+Something's wrong with my invoice
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+Something's not right with my invoice
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+Invoice has wrong amount
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+Wrong amount
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+invoice amount is not correct
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+amount is wrong
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+amount is incorrect
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+charge is incorrect
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+invoice shows wrong amount, how can I correct it
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+how to amend the wrong amount
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+amount charged is wrong
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+amount charged is not correct
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+Invoice was issued with wrong price
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+invoice has wrong rates
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+Prices are wrong in the invoice
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+My invoice is too high
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+invoice is too low
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+My invoice has wrong total
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+150 USD
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+100 EUR
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+23 GBP
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+15 JPY
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+10 AUD
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+98 CAD
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+56 CHF
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+75 CNY
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+24 SEK
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+13 NZD
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+200 RON
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+1500 RUB
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+10000 TRY
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+Invoice has wrong details
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+Wrong billing details
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+billing details are not correct
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+billing details are wrong
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+billing details are incorrect
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+my details on the invoice are incorrect
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+invoice shows wrong billing details, how can I correct it
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+how to amend the wrong billing details
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+billing details mentioned on the invoice are wrong
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+billing details on the invoice are not correct
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+My billing address is wrong on the invoice
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+The address information on my invoice is incorrect
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+The billing address on the invoice is not correct
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+The billing details are wrong on the invoice
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+123 Revolutionary Road, Washington, US
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+345 Main Street, Mississippi
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+300 Prinsengracht, Amsterdam
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+12 Hobbit Str.
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+Champs Elysees No 2, Paris
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+Baker Street 221b, London
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+1600 Pennsylvania Avenue, Washington DC, USA
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+11 Wall Street New York, NY
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+350 Fifth Avenue New York, NY 10118
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+4059 Mt Lee Dr. Hollywood, CA 90068
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+Buckingham Palace, London, England
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+Invoice has wrong due date
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+Wrong Due Date
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+due date is not correct
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+due date is wrong
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+due date is incorrect
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+the due date on the invoice is incorrect
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+invoice shows wrong due date, how can I correct it
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+how to amend the wrong due date
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+due date on the invoice is not correct
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+Invoice was issued with wrong dates
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+Dates on my invoice is wrong
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+The date on my invoice does not make sense
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+The date of my invoice is in the past
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+The data of my invoice is far in the future
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+There is no date on this invoice
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+The invoice is not dated
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+01.10.2020
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+25.12.2020
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+3rd November
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+5th of March
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+January 19th
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+February 28
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+04.04
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+21st of May
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+15.06
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+July 18th
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+17.08
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+September 11
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+can i change my payment method
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+Wrong payment method
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+i want to change the way i pay my invoice
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+how can i change my payment method
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+i want a different payment method
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+what payment methods are available
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+what are the available payment methods
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+how to select a different payment method
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+how can I change the payment method of my invoice
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+I would like to change my payment method
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+I need to change my payment method
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+Can I pay differently?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+can i change the way i pay my bills
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+can i change how i pay
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+Can I pay with card?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+can I pay with CC?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+can i pay with Cash?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+can I pay with Paypal?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+Could I change my payment method?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+What are the payment options?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+What are my payment options?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+How can I pay?
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.

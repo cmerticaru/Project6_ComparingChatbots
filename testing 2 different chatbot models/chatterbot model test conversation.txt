@@ -1,0 +1,544 @@
+Fin the chatbot
+Fin
+Hi, Welcome to Invoicing, I am Fin your Finance Assistance chatbot here to help you. 😄
+you can ask me anything related invoices, payments and many more....
+You
+14:38
+Hello
+Fin the chatbot
+14:38
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+You
+14:38
+Hei
+Fin the chatbot
+14:38
+The current time is 02:38 PM
+You
+14:39
+hi there
+Fin the chatbot
+14:39
+The current time is 02:39 PM
+You
+14:39
+helo
+Fin the chatbot
+14:39
+The current time is 02:39 PM
+You
+14:40
+god mornig
+Fin the chatbot
+14:40
+The current time is 02:40 PM
+You
+14:41
+goo mrning
+Fin the chatbot
+14:41
+The current time is 02:41 PM
+You
+14:42
+Have a nice day
+Fin the chatbot
+14:42
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+You
+14:43
+see you!
+Fin the chatbot
+14:43
+Thank you for reaching out to us! Before you go, do not forget to check the details for the recommended automated payment methods here ...
+You
+14:43
+wish you a great day ahead!
+Fin the chatbot
+14:43
+Hello, I am Fin, your Finance assistant chatbot, how can I help you today?
+You
+14:44
+See you latr
+Fin the chatbot
+14:44
+Thank you for reaching out to us! Before you go, do not forget to check the details for the recommended automated payment methods here ...
+You
+14:45
+Hve a nie day
+Fin the chatbot
+14:45
+The current time is 02:45 PM
+You
+14:46
+Se yo lter
+Fin the chatbot
+14:46
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+14:47
+what are you called
+Fin the chatbot
+14:47
+I'm Fin, your bot assistant
+You
+14:48
+What am I talking to?
+Fin the chatbot
+14:48
+The current time is 02:48 PM
+You
+14:48
+so what exactly are you?
+Fin the chatbot
+14:48
+I'm Fin, your bot assistant
+You
+14:49
+what is your nme
+Fin the chatbot
+14:49
+I'm Fin, your bot assistant
+You
+14:49
+what shuld I cll you
+Fin the chatbot
+14:49
+The current time is 02:49 PM
+You
+14:50
+wat ar they clling you
+Fin the chatbot
+14:50
+The current time is 02:50 PM
+You
+14:52
+give me a hand please
+Fin the chatbot
+14:52
+please tell me your problem so I can assist you
+You
+14:53
+i need some support please
+Fin the chatbot
+14:53
+please tell me your problem so I can assist you
+You
+14:54
+i have an issue i need some urgent help with
+Fin the chatbot
+14:54
+thank you
+You
+14:54
+Cold you help me
+Fin the chatbot
+14:54
+thank you
+You
+14:55
+I hve a prblem
+Fin the chatbot
+14:55
+The current time is 02:55 PM
+You
+14:56
+Coud you plese help me slve this issue?
+Fin the chatbot
+14:56
+please tell me your problem so I can assist you
+You
+14:59
+I have an outstanding invoice how can I pay it
+Fin the chatbot
+14:59
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:00
+i have an open invoice, how can I pay it?
+Fin the chatbot
+15:00
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:02
+here's the thing I need help with how to pay the invoice that is still outstanding
+Fin the chatbot
+15:02
+Happy to help! Before you go, do not forget to check the details for the recommended automated payment methods here ...
+You
+15:03
+how could i pay my last invice, could you please guide me through the steps
+Fin the chatbot
+15:03
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:04
+how could i pay my last invice, could you please gide me through the steps
+Fin the chatbot
+15:04
+The current time is 03:04 PM
+You
+15:04
+how could i pay my last invice, could you please gide me through the stps
+Fin the chatbot
+15:04
+The current time is 03:04 PM
+You
+15:06
+can i have a pdf of my invoice
+Fin the chatbot
+15:06
+You can find a copy of your invoice by accessing this path ...
+You
+15:07
+please provide me with a copy of my invoice
+Fin the chatbot
+15:07
+You can find a copy of your invoice by accessing this path ...
+You
+15:08
+i lost my invoice and i need another copy of it please
+Fin the chatbot
+15:08
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:08
+i want to dwnload an invoice
+Fin the chatbot
+15:08
+You can find a copy of your invoice by accessing this path ...
+You
+15:09
+i wnt to access an inoice
+Fin the chatbot
+15:09
+The current time is 03:09 PM
+You
+15:09
+can I otain a cpy of an ivoice
+Fin the chatbot
+15:09
+The current time is 03:09 PM
+You
+15:10
+My invoice is wrong, I need to make changes before I can pay
+Fin the chatbot
+15:10
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+You
+15:11
+there are errors in my invoice, how can i get this corrected?
+Fin the chatbot
+15:11
+You can find a copy of your invoice by accessing this path ...
+You
+15:12
+i have noticed something is not right with this invoice you sent, what do I do?
+Fin the chatbot
+15:12
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:13
+there are errrs in my invoice how to correct it
+Fin the chatbot
+15:13
+You can find a copy of your invoice by accessing this path ...
+You
+15:13
+there is an isse with my invice
+Fin the chatbot
+15:13
+The current time is 03:13 PM
+You
+15:14
+how to aend a flt in the invoice
+Fin the chatbot
+15:14
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+You
+15:21
+invoice amount is not correct
+Fin the chatbot
+15:21
+I am sorry you consider your invoice to be incorrect. Can you let me know which of these areas is incorrect:Wrong amount/Wrong Billing Details/Wrong Due Date.
+You
+15:22
+invoice shows wrong amount, how can i have it corrected
+Fin the chatbot
+15:22
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:23
+i am noticing wrong rates on my invoice how can i get a corrected invoice
+Fin the chatbot
+15:23
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:24
+amount chrged is wrong
+Fin the chatbot
+15:24
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:25
+Prces are wrng in the invoice
+Fin the chatbot
+15:25
+It seems you think the amount of the invoice is wrong. Please mention the invoice number, amount you think should have been charged and the reason why and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:26
+My invoce has wrng ttal
+Fin the chatbot
+15:26
+The current time is 03:26 PM
+You
+15:28
+billing details are not correct
+Fin the chatbot
+15:28
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:28
+my details on the invoice are not the correct ones
+Fin the chatbot
+15:28
+You can find a copy of your invoice by accessing this path ...
+You
+15:29
+i am noticing the address noted on the invoice is wrong, how can i get that fixed?
+Fin the chatbot
+15:29
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:32
+the illing details are wrong on the invoice
+Fin the chatbot
+15:32
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:32
+the illing dtails are wrong on the invoice
+Fin the chatbot
+15:32
+I see, your billing details on the invoice are not correct. Please mention the invoice number, correct billing details and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:32
+the illing dtails are wrong on the ivoice
+Fin the chatbot
+15:32
+The current time is 03:32 PM
+You
+15:35
+Invoice has wrong due date
+Fin the chatbot
+15:35
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:35
+this invoice has wrong due date
+Fin the chatbot
+15:35
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:36
+when i got this invoice i realized the due date is not right, how do i fix this
+Fin the chatbot
+15:36
+The available payment methods are credit card, bank transfer and automated payment. You can process payments from here ..
+You
+15:36
+The dte on my invoice does not make sense
+Fin the chatbot
+15:36
+Alright, seems that the due date on the invoice is incorrect. Please mention the invoice number, correct due date and I will open a case for our Finance Department to come back to you in the shortest time.
+You
+15:37
+Dats on my invice is wrong
+Fin the chatbot
+15:37
+The current time is 03:37 PM
+You
+15:38
+the date on my inoice does nt make snse
+Fin the chatbot
+15:38
+The current time is 03:38 PM
+You
+15:39
+100 EUR
+Fin the chatbot
+15:39
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:39
+111 EUR
+Fin the chatbot
+15:39
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:40
+128 CZK
+Fin the chatbot
+15:40
+128 = 128
+You
+15:41
+23 SK
+Fin the chatbot
+15:41
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:42
+1500 U
+Fin the chatbot
+15:42
+hey
+You
+15:43
+123456 y
+Fin the chatbot
+15:43
+hey
+You
+15:43
+123 Revolutionary Road, Washington, US
+Fin the chatbot
+15:43
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:44
+123 Revolutionary Road, Washington
+Fin the chatbot
+15:44
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:45
+66 Place Charles de Gaulle, Lille
+Fin the chatbot
+15:45
+My invoice is wrong, I need to make changes before I can pay
+You
+15:45
+345 Min Street, Mississippi
+Fin the chatbot
+15:45
+Great, I have registered the new details and Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:46
+345 Min Stret, Mississippi
+Fin the chatbot
+15:46
+345 = 345
+You
+15:46
+345 Min Stret, Mississppi
+Fin the chatbot
+15:46
+345 = 345
+You
+15:48
+25.12.2020
+Fin the chatbot
+15:48
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:48
+December 25th
+Fin the chatbot
+15:48
+The current time is 03:48 PM
+You
+15:49
+3 October 2021
+Fin the chatbot
+15:49
+OK thank you for providing the correct amount. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:49
+5th of Mrch
+Fin the chatbot
+15:49
+The current time is 03:49 PM
+You
+15:50
+Sptembr 11
+Fin the chatbot
+15:50
+Thank you for providing the correct due date. Our Finance Department will come back with the corrected invoice in maximum 3 days.
+You
+15:50
+Nemer 2021
+Fin the chatbot
+15:50
+2021 = 2021
+You
+15:51
+how can i change the payment method of my invoice
+Fin the chatbot
+15:51
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+You
+15:52
+i would need a change of my payment methods
+Fin the chatbot
+15:52
+bye
+You
+15:52
+so i noticed there is a wrong payment method on my invoice, i need to change with the correct payment method, how do I do that?
+Fin the chatbot
+15:52
+bye
+You
+15:53
+i would like to chnge my payment method
+Fin the chatbot
+15:53
+You can change your payment method here ... The available payment methods are credit card, bank transfer and automated payment.
+You
+15:53
+i would like to chnge my pyment method
+Fin the chatbot
+15:53
+The current time is 03:53 PM
+You
+15:53
+i would like to chnge my pyment mthod
+Fin the chatbot
+15:53
+The current time is 03:53 PM
+You
+15:54
+you cannot help me i want to talk to a human being
+Fin the chatbot
+15:54
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+You
+15:54
+is there a real person?
+Fin the chatbot
+15:54
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+You
+15:55
+this was a useless discussion, i need a real person to talk to
+Fin the chatbot
+15:55
+Sorry to hear I cannot help you, let me connect you with a human agent. Have a nice day!
+You
+15:56
+could you please trnsfer my call to a human operator?
+Fin the chatbot
+15:56
+The current time is 03:56 PM
+You
+15:56
+could you please trnsfer my cll to a human operator?
+Fin the chatbot
+15:56
+The current time is 03:56 PM
+You
+15:56
+could you please trnsfer my cll to a human oprator?
+Fin the chatbot
+15:56
+The current time is 03:56 PM
